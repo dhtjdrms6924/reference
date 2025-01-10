@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#4개의 점의 어깨 높이를 기준으로, 바디 밸런싱을 PID제어로 보정정
 
 import rclpy
 from rclpy.clock import Clock, ClockType

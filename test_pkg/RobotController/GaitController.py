@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 #Author: mike4192 https://github.com/mike4192/spotMicro
 #Modified by: lnotspotl
-
+#보형 자체의 전반적인 변수들을 제어
+#발을 들면 어드정도 높이로 들 것인지
+#각 GaitController에 사용되는 함수들의 정의
+#4팀과 얘기 많이 해야함
 import numpy as np
 
 class GaitController(object):

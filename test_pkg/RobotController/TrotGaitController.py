@@ -1,3 +1,5 @@
+#움직일 때 발 위치 결정
+
 import rclpy
 import numpy as np
 from geometry_msgs.msg import Twist, TwistStamped

@@ -1,3 +1,5 @@
+#서 있을 때, 즉 state일 때 발 위치 결정; 균형만 잡으면 됨
+
 import rclpy
 import numpy as np
 from InverseKinematics import robot_IK
